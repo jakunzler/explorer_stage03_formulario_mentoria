@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Explorer é o programa mais completo de formação da Rocketseat onde você desenvolve as habilidades técnicas e comportamentais pra decolar na carreira de dev.
 
-- [Acesse o projeto finalizado, online](https://jakunzler.github.io/explorer_stage03_formulario_evento/)
+- [Acesse o projeto finalizado, online](https://jakunzler.github.io/explorer_stage03_formulario_mentoria/)
 
 ## 🔖 Layout
 
