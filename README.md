@@ -14,8 +14,8 @@ Projeto desenvolvido no desafio do Stage03 do Explorer. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto Fomulários" src="./images/img1.svg" width="100%">
-  <img alt="Projeto Fomulários" src="./images/img2.svg" width="100%">
+  <img alt="Projeto Fomulários" src="docs/images/img1.svg" width="100%">
+  <img alt="Projeto Fomulários" src="docs/images/img2.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -38,4 +38,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ---
 
-Feito com ♥ by Dr. Jonas Augusto Kunzler :wave: [Repositório com meus projetos!](https://github.com/jakunzler). &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/jakunzler"><img alt="Link para perfil do GitHub" src="./images/github-dark.png" width="2%"></a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/jonas-augusto-kunzler-20a63547/"><img alt="Link para perfil do LinkedIn" src="./images/linkedin.png" width="2%"></a> &nbsp;|&nbsp; <a href="https://www.instagram.com/jakunzler/"><img alt="Link para perfil do Instagram" src="./images/instagram.png" width="2%"></a>
+Feito com ♥ by Dr. Jonas Augusto Kunzler :wave: [Repositório com meus projetos!](https://github.com/jakunzler). &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/jakunzler"><img alt="Link para perfil do GitHub" src="./docs/images/github-dark.png" width="2%"></a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/jonas-augusto-kunzler-20a63547/"><img alt="Link para perfil do LinkedIn" src="./docs/images/linkedin.png" width="2%"></a> &nbsp;|&nbsp; <a href="https://www.instagram.com/jakunzler/"><img alt="Link para perfil do Instagram" src="./docs/images/instagram.png" width="2%"></a>
